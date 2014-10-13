@@ -237,3 +237,10 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+
+/* my photo */
+.my-photo{
+    position: absolute;
+    left: 430px;
+    top: 215px;
+}
