@@ -239,7 +239,7 @@ footer {
 }
 
 /* my photo */
-.my-photo{
+.my-photo {
     position: absolute;
     left: 5%;
     top: 5%;
@@ -248,7 +248,12 @@ footer {
 }
 
 /* education headline */
-.header-line{
+.header-line {
     padding-left: 5em;
     margin-left: 5em;
+}
+
+/* resume link */
+.resume {
+    font-size: 2em;
 }
