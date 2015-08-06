@@ -240,9 +240,11 @@ footer {
 
 /* my photo */
 .my-photo{
-    position: relative;
-    left: 430px;
-    top: 215px;
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    max-width: 40%;
+    max-height: 40%;
 }
 
 /* education headline */
