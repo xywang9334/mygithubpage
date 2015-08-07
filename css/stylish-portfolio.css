@@ -168,6 +168,14 @@ hr.small {
     padding: 50px 0;
 }
 
+.language {
+    padding: 50px 0;
+}
+
+.experience {
+    padding: 50px 0;
+}
+
 /* Services */
 
 .services {
@@ -251,6 +259,11 @@ footer {
 .header-line {
     padding-left: 5em;
     margin-left: 5em;
+}
+
+.subheader-line {
+    padding-left:2em;
+    margin-left: 2em;
 }
 
 /* resume link */
